@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-07T17:02:29 IST" name="Default suite" finished-at="2022-01-07T17:02:40 IST" duration-ms="10992">
+    <groups>
+    </groups>
+    <test started-at="2022-01-07T17:02:29 IST" name="Default test" finished-at="2022-01-07T17:02:40 IST" duration-ms="10992">
+      <class name="webdriver31.webdriver31">
+        <test-method signature="UL()[pri:0, instance:webdriver31.webdriver31@72cde7cc]" started-at="2022-01-07T17:02:29 IST" name="UL" finished-at="2022-01-07T17:02:40 IST" duration-ms="10916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UL -->
+      </class> <!-- webdriver31.webdriver31 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
